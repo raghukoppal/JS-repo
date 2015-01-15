@@ -1,2 +1,1 @@
-# JS-repo
-Getting start with JS
+Getting started with JS
