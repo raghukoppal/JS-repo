@@ -2,5 +2,5 @@
 ## Table of Contents
 1. [Intro] (#intro)
 
-## intro
+## Intro
    Brief introduction about JS
