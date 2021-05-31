@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T17:15:49.937Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="xDzYsE_5xaAmTz9Vhx1t" version="14.7.2" type="github"><diagram id="E7zNrIpVS-DUp3PcLUwh" name="Page-1">zVhLb9s4EP41BtpDAlny8xhbyfbQAkHdxXb3RkuMRIQSFZKO5f76HYrUg6LUpEkc5CKIMyRn+M2nmaEmwTYr/+KoSL+xGNOJ78XlJAgnvr9ae/BUgpMWzNVICRJOYi2atoId+YWN0KxLDiTGwpooGaOSFLYwYnmOI2nJEOfsaE+7Y9S2WqAEO4JdhKgr/YfEMjXH8pet/AsmSVpbni7WWpOherI5iUhRzI4dUXA9CbacManfsnKLqcKuxkWvuxnRNo5xnMvnLHiY/0D+l4X8+/s2jNP/wp9lenux0rs8InowB84QyT99nvgLCrtu9hzeEvWWPNALgfkjBsmN4BE8UVGYo8lTjRdnhzzGyuQUFh1TIvGuQJHSHoEgIEtlRo3aGMdc4nL0VNMGK+AYZhmW/ARTaoIZdA29pgszPrbBamRpJ1C1DBl+JM3OLYTwYlD8A0Rr4nYgbcBssMRyZ6DUGrDUKIfAryWFYjpFQju9eDiwSjpt361o1MIM8YTkk+AKtF5RwlPPvGO5vBCSYxmlWpszniHaTKAkxxc1bAP6aoM7lBF60nqwibKiUgbBTEUb00csSYTUYgyI9Cd0Xa8Pe5OoXPJAK46RDkhFO2eUd9678M6f2cTzZ2uXeP67Em86QLweSjiPr1RShFFFIxLZwOCSyJ8Kw8u5Gf3b0YSlgbcanMxAG8Gxk0d7UIIj7MAj/FQ2ciHvQDofQLSWcUyRJI+2G0MwGwu3jICDTURnSzuiM68XKe2+WdVNtL2N/GBlU2Pl2xtJ+ByxdDaCyKBTZ1qhJohxh5u81rPTkkjv2FKqwfQVLFs7LIP0ceC5w7UOrdSXBimAXlGSQBoK90xKlikitXxkBQbVJkYibcoHqE1HsPoDorkEeiUzgvXMAjqYr1/GjMCzIxZ467Mww7FjHD4rM3yXGVcFo5TVpa7HD3EkGUU5jDaqjOyMRsUdGZ5EEFhY6RJIMpXRo5TQ+Cs6sYMKv5Aouq9Hm5Rx8gu2RTUHQc2lYZO/sGbs1EqTzTgWMOe25tS0J/qGSmviVySkEURwVlQIsm+OocvuxpC9kyxfVXlm/eD6bsvjLwfy5HLxJPG/QwuN8gROMG7OGyh00wFzfs8cohDLHEm8UaVaOPXuDSgYzBwK7qIUZ6hqTkzjke9F0WmpRIHywabpLL1Nhu7xdYmjg0TAE+Oc732aLDfjXZ9quCsvbfH7ei5PBQ7xHcRtOwblB/UcvlQGi7hx/eM41sdRVHQICYevEKqV+FjOLsMP5c/nUW96dQYyrbS73CfLS0biWC3XSR7pjK7Stym8sO98M5mHaq+DZEJXFV1lOLvHW0YZ7BvmrCpvz0r6v6mpbik42Sn2qcw/P9edI1gO3Dl6l902cbh3XTdz7JHAl4m6+vU1+usY1kWxuFR24o6dVltw9khizH80noy3qm9QoJd+759EMPBPIhgI0+pcYZoN/ZMYvxoa2jqovKT1fp+726J3dwv6t+znduhO7PoxeaMOfdnvqhbe7/3yhv16YUcPw/bHo57e/r0Nrv8H</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-31T18:07:41.790Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="qhsv-mQ321xXG_0Xapi9" version="14.7.2" type="github">
+  <diagram id="E7zNrIpVS-DUp3PcLUwh" name="Page-1">
+    <mxGraphModel dx="890" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q5Ta2H6tURCDdhZDXxhP-8" value="main()&lt;br&gt;gql-server/src/app" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="160" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Ta2H6tURCDdhZDXxhP-10" value="&lt;b&gt;getServer&lt;/b&gt;()&lt;br&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;/graphql/api&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="249" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Ta2H6tURCDdhZDXxhP-11" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="q5Ta2H6tURCDdhZDXxhP-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="400" as="sourcePoint" />
+            <mxPoint x="238" y="282" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="282" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5Ta2H6tURCDdhZDXxhP-19" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="394" y="359" as="sourcePoint" />
+            <mxPoint x="300" y="309" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="359" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5Ta2H6tURCDdhZDXxhP-29" value="ApolloServer" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="320" width="270" height="76" as="geometry">
+            <mxRectangle x="400" y="309" width="110" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5Ta2H6tURCDdhZDXxhP-34" value="Schema:&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;makeExecutableSchema ({&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;typeDefs,&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;resolvers,&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&amp;nbsp;schemaDirectives&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="q5Ta2H6tURCDdhZDXxhP-29" vertex="1">
+          <mxGeometry y="26" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Ta2H6tURCDdhZDXxhP-37" value="&lt;b&gt;typeDefs&lt;/b&gt;&lt;br&gt;base.gql&lt;br&gt;schema.gql&lt;br&gt;cds.typedefs&lt;br&gt;providerTypeDefs" style="html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="121" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Ta2H6tURCDdhZDXxhP-40" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="360" as="sourcePoint" />
+            <mxPoint x="720" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="360" />
+              <mxPoint x="700" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZkSIE9dKAlqiwu79T06Q-1" value="providerTypeDefs" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="191" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkSIE9dKAlqiwu79T06Q-2" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZkSIE9dKAlqiwu79T06Q-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="852" y="216" as="sourcePoint" />
+            <mxPoint x="900" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZkSIE9dKAlqiwu79T06Q-3" value="amazon-eink&lt;br&gt;amazon-iap&lt;br&gt;andros&lt;br&gt;apple&lt;br&gt;cds&lt;br&gt;cdsuk&lt;br&gt;google-newsstand&lt;br&gt;google-swg&lt;br&gt;org-access" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="150" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkSIE9dKAlqiwu79T06Q-6" value="" style="endArrow=none;html=1;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ZkSIE9dKAlqiwu79T06Q-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="210" as="sourcePoint" />
+            <mxPoint x="1080" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
